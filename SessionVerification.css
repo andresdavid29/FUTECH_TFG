@@ -1,0 +1,114 @@
+.session-content {
+  padding: 2rem 1.5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 60vh;
+}
+
+.session-container {
+  /* fondo blanco removido */
+  padding: 2.5rem 3rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  max-width: 480px;
+  width: 100%;
+  background-color: #a59b9b;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.session-container h2 {
+  margin-bottom: 1.8rem;
+  font-weight: 600;
+  font-size: 1.75rem;
+  color: #222;
+}
+
+/* botones y demás estilos iguales */
+
+.menu-button,
+.logout-button,
+.reset-button {
+  width: 100%;
+  padding: 0.65rem 0;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.menu-button {
+  background-color: #2563eb; /* azul */
+  color: white;
+}
+
+.menu-button:hover {
+  background-color: #1d4ed8;
+}
+
+.logout-button {
+  background-color: #ef4444; /* rojo */
+  color: white;
+}
+
+.logout-button:hover {
+  background-color: #b91c1c;
+}
+
+.password-reset {
+  margin-top: 2rem;
+  text-align: left;
+}
+
+.forgot-password {
+  background: none;
+  border: none;
+  color: #2563eb;
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+  font-size: 0.95rem;
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}
+
+.email-input {
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  font-size: 1rem;
+  border: 1.8px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.email-input:focus {
+  border-color: #2563eb;
+  outline: none;
+  box-shadow: 0 0 6px rgba(37, 99, 235, 0.4);
+}
+
+.error-message {
+  color: #dc2626;
+  font-weight: 600;
+  margin-top: 0.8rem;
+}
+
+.success-message {
+  color: #16a34a;
+  font-weight: 600;
+  margin-top: 0.8rem;
+}
+
+.reset-button:disabled {
+  background-color: #a5b4fc;
+  cursor: not-allowed;
+  color: #f3f4f6;
+}
