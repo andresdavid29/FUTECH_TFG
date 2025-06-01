@@ -1,0 +1,68 @@
+:root {
+  --primary-color: #4f9cbb;
+  --primary-hover: #3e7fa0;
+  --text-light: #ffffff;
+  --bg-dark: #1a1a1a;
+  --spacing-lg: 4rem;
+  --spacing-md: 2rem;
+  --spacing-sm: 0.75rem;
+  --border-radius: 6px;
+}
+
+/* NUEVO: layout general de la sección que se ajusta al alto del viewport */
+.estadisticas-layout {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: calc(100vh - 80px); /* Resta altura del header si es fijo (~80px aprox) */
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* Contenedor de gráficas */
+.graficas-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+  overflow: auto;
+  margin-bottom: var(--spacing-md);
+  max-height: 420px;
+}
+
+/* Navegación de botones */
+.navegacion-botones {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-sm);
+}
+
+/* Botones */
+.nav-btn {
+  padding: var(--spacing-sm) 1.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  border: none;
+  border-radius: var(--border-radius);
+  background-color: var(--primary-color);
+  color: var(--text-light);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 2px 6px rgba(79, 156, 187, 0.3);
+}
+
+.nav-btn:hover,
+.nav-btn:focus {
+  background-color: var(--primary-hover);
+  outline: none;
+  box-shadow: 0 4px 12px rgba(62, 127, 160, 0.6);
+}
+
+/* Footer específico de esta pantalla si quieres estilizarlo más */
+.footer {
+  font-size: 0.875rem;
+}
