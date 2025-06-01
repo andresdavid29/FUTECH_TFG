@@ -1,0 +1,320 @@
+name,name_2,id,goal_assist,goals,expected_goals_per_90,expected_assists_per_90,rating,nation,pos,squad,born,comp
+Lamine Yamal,goals,1467236,12.0,7.0,0.31,0.39,8.01,es ESP,FW,Barcelona,2007.0,La Liga
+Raphinha,goals,696679,9.0,18.0,0.66,0.33,7.95,br BRA,FW,Barcelona,1996.0,La Liga
+Kylian Mbappé,goals,701154,3.0,27.0,0.77,0.2,7.92,fr FRA,FW,Real Madrid,1998.0,La Liga
+Pedri,goals,1083323,5.0,4.0,0.07,0.29,7.78,es ESP,MF,Barcelona,2002.0,La Liga
+Isco,goals,191315,7.0,8.0,0.5,0.22,7.69,es ESP,MF,Betis,1992.0,La Liga
+Jude Bellingham,goals,1077894,8.0,8.0,0.39,0.16,7.55,eng ENG,MF,Real Madrid,2003.0,La Liga
+Federico Valverde,goals,743533,4.0,6.0,0.08,0.09,7.55,uy URU,MF,Real Madrid,1998.0,La Liga
+Vinicius Junior,goals,846033,7.0,11.0,0.42,0.27,7.52,br BRA,FW,Real Madrid,2000.0,La Liga
+Robert Lewandowski,goals,93447,2.0,25.0,0.9,0.05,7.52,pl POL,FW,Barcelona,1988.0,La Liga
+Álex Baena,goals,942372,8.0,6.0,0.24,0.45,7.49,es ESP,MF,Villarreal,2001.0,La Liga
+Iñigo Martinez,goals,789123,4.0,0.0,0.02,0.07,7.41,es ESP,DF,Barcelona,1991.0,La Liga
+Rodrygo,goals,895362,5.0,6.0,0.19,0.19,7.36,br BRA,FW,Real Madrid,2001.0,La Liga
+Yeray Álvarez,goals,639450,0.0,1.0,0.03,0.02,7.35,es ESP,DF,Athletic Club,1995.0,La Liga
+Daniel Vivian,goals,940743,0.0,3.0,0.06,0.03,7.35,es ESP,DF,Athletic Club,1999.0,La Liga
+Marcos Llorente,goals,602563,4.0,2.0,0.03,0.12,7.3,es ESP,MF,Atlético Madrid,1995.0,La Liga
+Ayoze Pérez,goals,479020,2.0,16.0,0.59,0.09,7.3,es ESP,FW,Villarreal,1993.0,La Liga
+Jules Koundé,goals,705450,3.0,2.0,0.06,0.13,7.28,fr FRA,DF,Barcelona,1998.0,La Liga
+Daniel Raba,goals,784246,6.0,7.0,0.36,0.21,7.27,es ESP,MF,Leganés,1996.0,La Liga
+Pablo Barrios,goals,1338192,4.0,1.0,0.05,0.07,7.27,es ESP,MF,Atlético Madrid,2003.0,La Liga
+Luis Milla,goals,638090,4.0,1.0,0.06,0.16,7.26,es ESP,MF,Getafe,1994.0,La Liga
+Sergi Cardona,goals,1059657,7.0,1.0,0.08,0.14,7.25,es ESP,DF,Villarreal,1999.0,La Liga
+Joan Garcia,goals,1167220,0.0,0.0,0.0,0.0,7.24,es ESP,GK,Espanyol,2001.0,La Liga
+Dani Olmo,goals,614834,2.0,9.0,0.46,0.29,7.23,es ESP,MF,Barcelona,1998.0,La Liga
+Giovani Lo Celso,goals,604126,2.0,8.0,0.31,0.31,7.22,ar ARG,MF,Betis,1996.0,La Liga
+Diego Rico,goals,488718,3.0,0.0,0.01,0.11,7.22,es ESP,DF,Getafe,1993.0,La Liga
+Aurélien Tchouaméni,goals,914458,0.0,0.0,0.05,0.03,7.21,fr FRA,MF,Real Madrid,2000.0,La Liga
+Eduardo Camavinga,goals,1015185,2.0,1.0,0.04,0.06,7.21,fr FRA,MF,Real Madrid,2002.0,La Liga
+Unai Simon,goals,660625,0.0,0.0,0.0,0.0,7.2,es ESP,GK,Athletic Bilbao,1997.0,La Liga
+Antoine Griezmann,goals,184138,6.0,8.0,0.25,0.22,7.19,fr FRA,FW,Atlético Madrid,1991.0,La Liga
+Ferran Torres,goals,881771,6.0,10.0,0.65,0.21,7.19,es ESP,FW,Barcelona,2000.0,La Liga
+Oscar Mingueza,goals,952095,6.0,4.0,0.05,0.21,7.19,es ESP,DF,Celta Vigo,1998.0,La Liga
+Yuri Berchiche,goals,80295,2.0,0.0,0.03,0.1,7.17,es ESP,DF,Athletic Club,1990.0,La Liga
+Nayef Aguerd,goals,617310,0.0,0.0,0.12,0.01,7.17,ma MAR,DF,Real Sociedad,1996.0,La Liga
+Omar Alderete,goals,751998,0.0,1.0,0.05,0.03,7.17,py PAR,DF,Getafe,1996.0,La Liga
+Arda Güler,goals,1253890,4.0,3.0,0.27,0.32,7.16,tr TUR,MF,Real Madrid,2005.0,La Liga
+Dodi Lukebakio,goals,688876,2.0,11.0,0.28,0.12,7.15,be BEL,FW,Sevilla,1997.0,La Liga
+Marc Casado,goals,1384883,3.0,1.0,0.06,0.1,7.15,es ESP,MF,Barcelona,2003.0,La Liga
+Andrei Ratiu,goals,970578,3.0,2.0,0.06,0.11,7.14,ro ROU,DF,Rayo Vallecano,1998.0,La Liga
+Johnny Cardoso,goals,1173678,1.0,3.0,0.09,0.04,7.14,us USA,MF,Betis,2001.0,La Liga
+Alejandro Balde,goals,1254166,4.0,0.0,0.02,0.12,7.13,es ESP,DF,Barcelona,2003.0,La Liga
+Julián Álvarez,goals,974753,2.0,15.0,0.49,0.15,7.13,ar ARG,FW,Atlético Madrid,2000.0,La Liga
+Luka Modric,goals,31097,4.0,2.0,0.08,0.32,7.12,hr HRV,MF,Real Madrid,1985.0,La Liga
+Mikel Jauregizar,goals,1553099,1.0,2.0,0.05,0.05,7.12,es ESP,MF,Athletic Club,2003.0,La Liga
+Nahuel Tenaglia,goals,860314,1.0,2.0,0.07,0.05,7.11,ar ARG,DF,Alavés,1996.0,La Liga
+Sergio Gomez,goals,844477,5.0,2.0,0.05,0.24,7.11,es ESP,MF,Real Sociedad,2001.0,La Liga
+Inaki Williams,goals,604105,8.0,6.0,0.25,0.17,7.1,es ESP,FW,Athletic Bilbao,1994.0,La Liga
+Óscar de Marcos,goals,456789,7.0,6.0,0.18,0.1,6.4,es ESP,DF,Athletic Bilbao,1989.0,La Liga
+Marc Bartra,goals,195305,1.0,2.0,0.06,0.01,7.1,es ESP,DF,Betis,1991.0,La Liga
+Lucas Vázquez,goals,359193,5.0,1.0,0.06,0.17,7.1,es ESP,DF,Real Madrid,1991.0,La Liga
+Rubén García,goals,567890,7.4,8.0,0.3,0.25,7.1,es ESP,MF,Osasuna,1993.0,La Liga
+Iago Aspas,goals,174472,4.0,9.0,0.47,0.2,7.09,es ESP,FW,Celta Vigo,1987.0,La Liga
+Daniel Parejo,goals,75307,3.0,3.0,0.1,0.08,7.09,es ESP,MF,Villarreal,1989.0,La Liga
+Inigo Ruiz de Galarreta,goals,282462,4.0,0.0,0.03,0.18,7.09,es ESP,MF,Athletic Bilbao,1994.0,La Liga
+Marko Dmitrovic,goals,280818,0.0,0.0,0.0,0.0,7.09,rs SRB,GK,Leganés,1992.0,La Liga
+Sergio Herrera,goals,683762,0.0,0.0,0.0,0.0,7.09,es ESP,GK,Osasuna,1993.0,La Liga
+José Gayà,goals,391058,1.0,0.0,0.06,0.17,7.09,es ESP,DF,Valencia,1995.0,La Liga
+Fabio Silva,goals,1050158,3.0,10.0,0.42,0.09,7.09,pt POR,FW,Las Palmas,2002.0,La Liga
+Pau Cubarsi,goals,1532137,3.0,0.0,0.03,0.03,7.09,es ESP,DF,Barcelona,2000.0,La Liga
+Martin Zubimendi,goals,1031325,1.0,2.0,0.08,0.04,7.08,es ESP,MF,Real Sociedad,1999.0,La Liga
+Francisco Garcia,goals,750028,2.0,0.0,0.04,0.07,7.08,es ESP,DF,Real Madrid,1997.0,La Liga
+Clément Lenglet,goals,488412,1.0,1.0,0.08,0.04,7.08,fr FRA,DF,Atlético Madrid,1995.0,La Liga
+Jan Oblak,goals,177126,0.0,0.0,0.0,0.0,7.08,si SVN,GK,Atlético Madrid,1993.0,La Liga
+Enzo Barrenechea,goals,1352923,2.0,1.0,0.06,0.05,7.07,ar ARG,MF,Valencia,2001.0,La Liga
+Alexander Sørloth,goals,440330,2.0,17.0,0.83,0.04,7.07,no NOR,FW,Atlético Madrid,1995.0,La Liga
+Augusto Batalla,goals,621415,0.0,0.0,0.0,0.0,7.07,ar ARG,GK,Rayo Vallecano,1996.0,La Liga
+Ante Budimir,goals,251269,4.0,19.0,0.59,0.04,7.07,hr CRO,FW,Osasuna,1991.0,La Liga
+Thibaut Courtois,goals,170323,0.0,0.0,0.0,0.0,7.07,be BEL,GK,Real Madrid,1992.0,La Liga
+Diego Llorente,goals,420568,0.0,2.0,0.05,0.01,7.07,es ESP,DF,Betis,1993.0,La Liga
+Pablo Maffeo,goals,673356,2.0,0.0,0.01,0.13,7.06,es ESP,DF,Mallorca,1997.0,La Liga
+Javi Galán,goals,695062,3.0,0.0,0.01,0.15,7.06,es ESP,DF,Atlético Madrid,1994.0,La Liga
+Marcos Alonso,goals,196169,0.0,2.0,0.11,0.07,7.06,es ESP,DF,Celta Vigo,1990.0,La Liga
+Florian Lejeune,goals,184521,2.0,1.0,0.09,0.03,7.06,fr FRA,DF,Rayo Vallecano,1991.0,La Liga
+Santi Comesana,goals,671865,2.0,3.0,0.17,0.09,7.05,es ESP,MF,Villarreal,1995.0,La Liga
+Arnau Martinez,goals,1194892,2.0,2.0,0.05,0.06,7.05,es ESP,DF,Girona,2003.0,La Liga
+Lucas Torro,goals,303879,0.0,3.0,0.07,0.05,7.05,es ESP,MF,Osasuna,1994.0,La Liga
+Yangel Herrera,goals,730901,3.0,4.0,0.15,0.05,7.04,ve VEN,MF,Girona,1998.0,La Liga
+Oihan Sancet,goals,950545,1.0,15.0,0.56,0.09,7.04,es ESP,MF,Athletic Club,2000.0,La Liga
+Raul Asencio,goals,1580528,1.0,0.0,0.0,0.03,7.04,es ESP,DF,Real Madrid,1998.0,La Liga
+Eric Garcia,goals,940573,2.0,2.0,0.16,0.08,7.04,es ESP,DF,Barcelona,2001.0,La Liga
+Mauro Arambarri,goals,625340,0.0,9.0,0.26,0.02,7.03,uy URU,MF,Getafe,1995.0,La Liga
+Aimar Oroz,goals,1054786,3.0,5.0,0.13,0.1,7.03,es ESP,MF,Osasuna,2001.0,La Liga
+David Soria,goals,581919,0.0,0.0,0.0,0.0,7.03,es ESP,GK,Getafe,1993.0,La Liga
+Daniel Ceballos,goals,531629,0.0,0.0,0.03,0.16,7.02,es ESP,MF,Real Madrid,1996.0,La Liga
+Loic Badé,goals,1119461,1.0,1.0,0.02,0.01,7.02,fr FRA,DF,Sevilla,2000.0,La Liga
+Alejandro Catena,goals,814663,2.0,0.0,0.06,0.06,7.02,es ESP,DF,Rayo Vallecano,1997.0,La Liga
+Omar El Hilali,goals,1208708,2.0,0.0,0.0,0.04,7.02,ma MAR,DF,Espanyol,2003.0,La Liga
+Nico Williams,goals,1202110,5.0,5.0,0.18,0.19,7.01,es ESP,FW,Athletic Club,2002.0,La Liga
+Raul Moro,goals,1169596,5.0,4.0,0.15,0.23,7.01,es ESP,FW,Real Valladolid,1999.0,La Liga
+Kike Salas,goals,1327489,2.0,3.0,0.08,0.04,7.01,es ESP,DF,Sevilla,2002.0,La Liga
+José Ángel Carmona,goals,1281461,0.0,0.0,0.02,0.02,7.01,es ESP,DF,Sevilla,2001.0,La Liga
+Kirian Rodriguez,goals,936206,3.0,0.0,0.08,0.07,7.0,es ESP,MF,Las Palmas,1997.0,La Liga
+Abdul Mumin,goals,776591,1.0,2.0,0.03,0.01,7.0,gh GHA,DF,Rayo Vallecano,1998.0,La Liga
+Takefusa Kubo,goals,848289,0.0,5.0,0.15,0.14,6.99,jp JPN,FW,Real Sociedad,2001.0,La Liga
+Joan Jordán,goals,574662,2.0,4.0,0.26,0.16,6.99,es ESP,MF,Alavés,1994.0,La Liga
+Álvaro Garcia,goals,474658,5.0,4.0,0.26,0.2,6.98,es ESP,FW,Rayo Vallecano,1996.0,La Liga
+Sergi Darder,goals,282472,5.0,2.0,0.08,0.17,6.98,es ESP,MF,Mallorca,1993.0,La Liga
+Rodrigo De Paul,goals,324578,4.0,3.0,0.06,0.24,6.98,ar ARG,MF,Atlético Madrid,1994.0,La Liga
+Saul Niguez,goals,309334,6.0,1.0,0.17,0.13,6.98,es ESP,MF,Sevilla,1994.0,La Liga
+Frenkie de Jong,goals,638622,2.0,2.0,0.06,0.17,6.97,nl NED,MF,Barcelona,1997.0,La Liga
+Valentin Rosier,goals,763970,2.0,1.0,0.03,0.04,6.96,fr FRA,DF,Leganés,1996.0,La Liga
+Pathé Ciss,goals,872396,1.0,4.0,0.09,0.04,6.96,sn SEN,MF,Rayo Vallecano,1994.0,La Liga
+Jon Aramburu,goals,1249284,1.0,1.0,0.02,0.05,6.96,ve VEN,DF,Real Sociedad,2002.0,La Liga
+Alex Berenguer,goals,574629,7.0,5.0,0.29,0.18,6.96,es ESP,FW,Athletic Bilbao,1995.0,La Liga
+Youssouf Sabaly,goals,467689,1.0,0.0,0.01,0.05,6.96,sn SEN,DF,Betis,1993.0,La Liga
+Jorge Sáenz,goals,573780,0.0,1.0,0.05,0.01,6.96,es ESP,DF,Leganés,1996.0,La Liga
+Alberto Moleiro,goals,1184694,1.0,6.0,0.19,0.13,6.95,es ESP,FW,Las Palmas,2003.0,La Liga
+Andoni Gorosabel,goals,839893,2.0,0.0,0.02,0.11,6.95,es ESP,DF,Athletic Club,1996.0,La Liga
+Kiko,goals,175311,1.0,0.0,0.01,0.09,6.95,es ESP,DF,Villarreal,1996.0,La Liga
+Sandro Ramirez,goals,477615,3.0,9.0,0.18,0.15,6.95,es ESP,FW,Las Palmas,1996.0,La Liga
+Santiago Mourino,goals,1407468,1.0,0.0,0.05,0.03,6.95,es ESP,DF,Alavés,1998.0,La Liga
+Samuel Dias Lino,goals,1082941,3.0,3.0,0.38,0.1,6.94,br BRA,FW,Atlético Madrid,1999.0,La Liga
+Lucien Agoume,goals,971790,1.0,1.0,0.04,0.06,6.94,fr FRA,MF,Sevilla,2002.0,La Liga
+Antonio Rüdiger,goals,276738,0.0,0.0,0.07,0.04,6.94,de GER,DF,Real Madrid,1993.0,La Liga
+Javier Puado,goals,846966,3.0,11.0,0.32,0.05,6.93,es ESP,FW,Espanyol,1997.0,La Liga
+Miguel Gutiérrez,goals,942379,5.0,1.0,0.06,0.17,6.93,es ESP,DF,Girona,2001.0,La Liga
+Brahim Diaz,goals,750027,2.0,4.0,0.37,0.14,6.93,ma MAR,FW,Real Madrid,1999.0,La Liga
+Giuliano Simeone,goals,1226147,6.0,2.0,0.11,0.22,6.93,ar ARG,MF,Atlético Madrid,2002.0,La Liga
+Samu,goals,1130583,2.0,0.0,0.07,0.07,6.93,es ESP,MF,Mallorca,1999.0,La Liga
+Antonio Raillo,goals,640231,0.0,2.0,0.06,0.03,6.92,es ESP,DF,Mallorca,1991.0,La Liga
+Bryan Zaragoza,goals,1202525,5.0,1.0,0.15,0.26,6.92,es ESP,FW,Osasuna,2001.0,La Liga
+Juan Iglesias,goals,1102289,1.0,0.0,0.03,0.06,6.92,es ESP,DF,Getafe,1999.0,La Liga
+Luka Sucic,goals,959597,1.0,1.0,0.17,0.11,6.92,at AUT,MF,Real Sociedad,2002.0,La Liga
+Pep Chavarria,goals,988805,1.0,0.0,0.04,0.07,6.92,es ESP,FW,Rayo Vallecano,1998.0,La Liga
+Johan Mojica,goals,474673,2.0,1.0,0.03,0.15,6.91,co COL,DF,Mallorca,1992.0,La Liga
+Hugo Álvarez,goals,1308414,3.0,4.0,0.15,0.12,6.91,es ESP,MF,Celta Vigo,2003.0,La Liga
+Leandro Cabrera,goals,169586,2.0,4.0,0.04,0.02,6.91,uy URU,DF,Espanyol,1991.0,La Liga
+Luis Rioja,goals,638070,3.0,5.0,0.11,0.17,6.91,es ESP,FW,Alavés,1993.0,La Liga
+Luis Rioja,goals,638070,3.0,5.0,0.11,0.17,6.91,es ESP,FW,Valencia,1993.0,La Liga
+Yéremi Pino,goals,1047676,5.0,3.0,0.17,0.18,6.91,es ESP,FW,Villarreal,2002.0,La Liga
+Sergi Altimira,goals,1310480,1.0,0.0,0.08,0.05,6.91,es ESP,MF,Betis,2001.0,La Liga
+Thierno Barry,goals,1398392,3.0,11.0,0.5,0.06,6.91,fr FRA,FW,Villarreal,2002.0,La Liga
+Koke,goals,184533,1.0,1.0,0.06,0.08,6.91,es ESP,MF,Atlético Madrid,1992.0,La Liga
+Natan,goals,1188375,1.0,1.0,0.02,0.04,6.9,br BRA,DF,Betis,2001.0,La Liga
+Conor Gallagher,goals,966027,2.0,3.0,0.15,0.06,6.9,eng ENG,MF,Atlético Madrid,2000.0,La Liga
+Nicolas Pépé,goals,575735,5.0,2.0,0.24,0.26,6.9,ci CIV,FW,Villarreal,1995.0,La Liga
+Djibril Sow,goals,707970,1.0,1.0,0.1,0.04,6.9,ch SUI,MF,Sevilla,1997.0,La Liga
+Martin Valjent,goals,521846,0.0,2.0,0.03,0.02,6.9,sk SVK,DF,Mallorca,1995.0,La Liga
+Pablo Fornals,goals,683450,0.0,1.0,0.09,0.16,6.9,es ESP,MF,Betis,1996.0,La Liga
+Pape Gueye,goals,844544,0.0,2.0,0.12,0.09,6.89,sn SEN,MF,Villarreal,1999.0,La Liga
+Bryan Gil,goals,970692,3.0,3.0,0.12,0.17,6.89,es ESP,FW,Girona,2001.0,La Liga
+Nahuel Molina,goals,726345,3.0,0.0,0.03,0.1,6.89,ar ARG,DF,Atlético Madrid,1998.0,La Liga
+Carlos Vicente,goals,1229177,5.0,4.0,0.08,0.17,6.89,es ESP,FW,Alavés,1999.0,La Liga
+Manu Morlanes,goals,784241,0.0,0.0,0.04,0.05,6.89,es ESP,MF,Mallorca,1999.0,La Liga
+Isi Palazon,goals,638010,4.0,3.0,0.18,0.18,6.88,es ESP,FW,Rayo Vallecano,1995.0,La Liga
+Ladislav Krejci,goals,798029,0.0,2.0,0.07,0.03,6.88,cz CZE,DF,Girona,1997.0,La Liga
+Antonio Sivera,goals,530468,0.0,0.0,0.0,0.01,6.88,es ESP,GK,Alavés,1996.0,La Liga
+Ramon Terrats,goals,1202587,0.0,4.0,0.17,0.08,6.88,es ESP,MF,Villarreal,1999.0,La Liga
+Yvan Neyou Noupa,goals,815187,1.0,1.0,0.02,0.04,6.88,cm CMR,MF,Leganés,1997.0,La Liga
+Robin Le Normand,goals,609516,0.0,0.0,0.05,0.05,6.88,es ESP,DF,Atlético Madrid,1996.0,La Liga
+Abdessamad Ezzalzouli,goals,1209399,2.0,2.0,0.36,0.1,6.88,ma MAR,FW,Betis,2002.0,La Liga
+Renato Tapia,goals,489288,0.0,1.0,0.02,0.03,6.87,pe PER,MF,Leganés,1995.0,La Liga
+Diego Lopez,goals,1284434,5.0,8.0,0.22,0.16,6.87,es ESP,FW,Valencia,1999.0,La Liga
+Daley Blind,goals,161012,2.0,0.0,0.02,0.08,6.87,nl NED,DF,Girona,1990.0,La Liga
+Vedat Muriqi,goals,517052,2.0,7.0,0.48,0.08,6.86,xk KVX,FW,Mallorca,1994.0,La Liga
+Dominik Greif,goals,651910,0.0,0.0,0.0,0.0,6.86,sk SVK,GK,Mallorca,1997.0,La Liga
+Albert Sambi Lokonga,goals,901495,2.0,0.0,0.04,0.05,6.86,be BEL,MF,Sevilla,1999.0,La Liga
+Unai Lopez,goals,571615,1.0,3.0,0.08,0.06,6.86,es ESP,MF,Rayo Vallecano,1996.0,La Liga
+Giorgi Mamardashvili,goals,948800,0.0,0.0,0.0,0.0,6.86,ge GEO,GK,Valencia,2000.0,La Liga
+Ilaix Moriba,goals,1109046,1.0,1.0,0.08,0.11,6.85,gn GUI,MF,Celta Vigo,2003.0,La Liga
+Domingos Duarte,goals,566425,0.0,1.0,0.01,0.01,6.85,pt POR,DF,Getafe,1995.0,La Liga
+Jasper Cillessen,goals,212512,0.0,0.0,0.0,0.0,6.85,nl NED,GK,Las Palmas,1989.0,La Liga
+Cristhian Mosquera,goals,1298907,0.0,1.0,0.01,0.01,6.84,es ESP,DF,Valencia,2004.0,La Liga
+Benat Prados,goals,1229176,0.0,1.0,0.05,0.07,6.84,es ESP,MF,Athletic Club,1997.0,La Liga
+Viti,goals,753724,2.0,0.0,0.0,0.06,6.84,es ESP,DF,Las Palmas,1997.0,La Liga
+Dario Essugo,goals,1239595,0.0,1.0,0.03,0.03,6.84,pt POR,MF,Las Palmas,2005.0,La Liga
+Carlos Romero,goals,1395964,1.0,2.0,0.07,0.08,6.84,es ESP,DF,Espanyol,2001.0,La Liga
+Jesus Areso,goals,1037537,3.0,0.0,0.0,0.07,6.83,es ESP,DF,Osasuna,1997.0,La Liga
+Marash Kumbulla,goals,872362,0.0,3.0,0.06,0.01,6.83,al ALB,DF,Espanyol,2000.0,La Liga
+Romain Perraud,goals,815465,2.0,2.0,0.02,0.06,6.83,fr FRA,DF,Betis,1997.0,La Liga
+José Giménez,goals,474589,1.0,0.0,0.02,0.01,6.83,uy URY,DF,Atlético Madrid,1995.0,La Liga
+Pepelu,goals,673689,2.0,2.0,0.11,0.14,6.83,es ESP,MF,Valencia,1999.0,La Liga
+Javier Munoz,goals,616531,3.0,1.0,0.04,0.08,6.83,es ESP,MF,Las Palmas,1995.0,La Liga
+Robert Navarro,goals,1011117,0.0,1.0,0.14,0.1,6.82,es ESP,MF,Mallorca ,2000.0,La Liga
+Juan Cruz,goals,940608,3.0,4.0,0.07,0.14,6.82,es ESP,FW,Leganés,2000.0,La Liga
+Seydouba Cisse,goals,1287783,0.0,3.0,0.08,0.02,6.82,ml MLI,MF,Leganés,1997.0,La Liga
+Aitor Paredes,goals,1191407,0.0,3.0,0.12,0.01,6.82,es ESP,DF,Athletic Club,2000.0,La Liga
+Jesus Rodriguez,goals,1624039,0.0,2.0,0.2,0.06,6.82,es ESP,MF,Betis,1998.0,La Liga
+Logan Costa,goals,922877,0.0,2.0,0.03,0.02,6.82,cv CPV,DF,Villarreal,2001.0,La Liga
+Adrià Pedrosa,goals,927646,1.0,1.0,0.03,0.06,6.81,es ESP,DF,Sevilla,1998.0,La Liga
+Sergio Carreira,goals,1106742,4.0,0.0,0.03,0.14,6.81,es ESP,MF,Celta Vigo,2000.0,La Liga
+Fermin Lopez,goals,1404415,4.0,4.0,0.42,0.32,6.81,es ESP,MF,Barcelona,2000.0,La Liga
+Carl Starfelt,goals,497662,0.0,1.0,0.02,0.01,6.81,se SWE,DF,Celta Vigo,1995.0,La Liga
+Alex Remiro,goals,616539,0.0,0.0,0.0,0.0,6.8,es ESP,GK,Real Sociedad,1995.0,La Liga
+José Campana,goals,213502,3.0,0.0,0.01,0.08,6.8,es ESP,MF,Levante,1994.0,La Liga
+Javier Guerra,goals,1284429,3.0,3.0,0.08,0.12,6.8,es ESP,MF,Valencia,2003.0,La Liga
+César Tárrega,goals,1311985,0.0,2.0,0.06,0.01,6.8,es ESP,DF,Valencia,2002.0,La Liga
+Pedro Diaz,goals,715069,0.0,3.0,0.17,0.15,6.8,es ESP,MF,Rayo Vallecano,1999.0,La Liga
+Abdelkabir Abqar,goals,956921,1.0,0.0,0.03,0.01,6.8,ma MAR,DF,Alavés,2000.0,La Liga
+Viktor Tsygankov,goals,678901,8.3,9.0,0.35,0.3,7.8,ua UKR,FW,Girona,1997.0,La Liga
+José Copete,goals,896402,0.0,0.0,0.03,0.01,6.8,es ESP,DF,Mallorca,1998.0,La Liga
+Nemanja Gudelj,goals,178753,1.0,1.0,0.06,0.04,6.79,rs SRB,MF,Sevilla,1991.0,La Liga
+Kike Garcia,goals,183353,0.0,12.0,0.33,0.06,6.79,es ESP,FW,Alavés,1994.0,La Liga
+Yaser Asprilla,goals,1277380,0.0,3.0,0.13,0.23,6.79,co COL,FW,Girona,2003.0,La Liga
+André Almeida,goals,777028,3.0,0.0,0.06,0.23,6.79,pt POR,MF,Celta,1995.0,La Liga
+Pablo Durán,goals,1322858,4.0,4.0,0.23,0.07,6.78,es ESP,FW,Celta Vigo,2001.0,La Liga
+Flavien Boyomo,goals,1187734,0.0,2.0,0.04,0.02,6.78,cm CMR,DF,Osasuna,1997.0,La Liga
+Chidera Ejuke,goals,837270,1.0,2.0,0.1,0.11,6.78,ng NGA,FW,Sevilla,1998.0,La Liga
+Jon Moncayola,goals,921825,0.0,0.0,0.07,0.2,6.78,es ESP,MF,Osasuna,1998.0,La Liga
+Abel Bretones,goals,1323398,0.0,2.0,0.02,0.06,6.77,es ESP,DF,Osasuna,1998.0,La Liga
+Orjan Haskjold Nyland,goals,73409,0.0,0.0,0.0,0.0,6.77,no NOR,GK,Sevilla,1995.0,La Liga
+Alex Kral,goals,836797,1.0,0.0,0.05,0.05,6.76,cz CZE,MF,Espanyol,1998.0,La Liga
+Javi Rodriguez,goals,1435439,2.0,3.0,0.09,0.04,6.75,es ESP,DF,Celta Vigo,1999.0,La Liga
+Daniel Rodriguez,goals,213516,7.0,4.0,0.12,0.15,6.74,es ESP,FW,Barcelona,1998.0,La Liga
+Kike Pérez,goals,888167,0.0,2.0,0.15,0.08,6.74,es ESP,MF,Valladolid,1997.0,La Liga
+Aitor Ruibal,goals,676533,3.0,1.0,0.06,0.14,6.74,es ESP,DF,Betis,1996.0,La Liga
+Juanlu Sánchez,goals,1158512,4.0,4.0,0.15,0.09,6.74,es ESP,MF,Sevilla,2003.0,La Liga
+David Lopez,goals,215584,0.0,1.0,0.03,0.02,6.73,es ESP,DF,Girona,1991.0,La Liga
+Mika Mármol,goals,1225450,1.0,0.0,0.02,0.08,6.73,es ESP,MF,Las Palmas,2000.0,La Liga
+Alfon González,goals,926643,2.0,4.0,0.29,0.15,6.73,es ESP,FW,Celta Vigo,1997.0,La Liga
+Antonio Blanco,goals,845998,1.0,0.0,0.03,0.06,6.72,es ESP,MF,Alavés,2000.0,La Liga
+Fran Beltrán,goals,785511,1.0,2.0,0.04,0.07,6.71,es ESP,MF,Celta Vigo,1999.0,La Liga
+Djené,goals,421365,0.0,0.0,0.01,0.03,6.7,tg TOG,DF,Getafe,1991.0,La Liga
+Borja Iglesias,goals,609505,3.0,10.0,0.41,0.07,6.69,es ESP,FW,Celta Vigo,1993.0,La Liga
+Jorge de Frutos,goals,797901,3.0,4.0,0.19,0.09,6.69,es ESP,MF,Rayo Vallecano,1997.0,La Liga
+Hugo Sotelo,goals,1254218,0.0,0.0,0.01,0.13,6.68,es ESP,MF,Celta Vigo,2003.0,La Liga
+Hugo Duro,goals,929838,2.0,11.0,0.41,0.02,6.68,es ESP,FW,Valencia,1999.0,La Liga
+Alex Munoz,goals,512040,0.0,3.0,0.05,0.04,6.67,es ESP,DF,Las Palmas,1998.0,La Liga
+Omar Mascarell,goals,359191,0.0,1.0,0.02,0.01,6.67,gq EQG,MF,Mallorca,1993.0,La Liga
+Oliver McBurnie,goals,509151,6.0,3.0,0.26,0.05,6.66,sct SCO,FW,Las Palmas,1996.0,La Liga
+Jofre Carreras,goals,1184777,3.0,3.0,0.1,0.08,6.66,es ESP,FW,Espanyol,1996.0,La Liga
+Iván Sánchez,goals,553256,1.0,2.0,0.04,0.16,6.65,es ESP,MF,Valladolid,1992.0,La Liga
+Pol Lozano,goals,750031,1.0,0.0,0.01,0.05,6.65,es ESP,MF,Espanyol,1999.0,La Liga
+Carles Alena,goals,637756,2.0,0.0,0.1,0.07,6.65,es ESP,MF,Getafe,1997.0,La Liga
+Paulo Gazzaniga,goals,278285,0.0,0.0,0.0,0.0,6.64,ar ARG,GK,Girona,1992.0,La Liga
+Sergio González,goals,813771,0.0,2.0,0.05,0.02,6.64,es ESP,DF,Leganés,1998.0,La Liga
+Mikel Vesga,goals,616545,0.0,0.0,0.12,0.06,6.64,es ESP,MF,Athletic Club,1993.0,La Liga
+Oscar Rodriguez,goals,863168,4.0,1.0,0.13,0.11,6.64,es ESP,MF,Leganés,1997.0,La Liga
+Álvaro Tejero,goals,671685,4.0,1.0,0.05,0.26,6.64,es ESP,DF,Espanyol,1996.0,La Liga
+Diego Conde,goals,1022354,1.0,0.0,0.0,0.0,6.63,es ESP,GK,Villarreal,1998.0,La Liga
+Vicente Guaita,goals,109222,0.0,0.0,0.0,0.0,6.63,es ESP,GK,Celta Vigo,1987.0,La Liga
+Manuel Sánchez,goals,1052330,0.0,1.0,0.06,0.05,6.62,es ESP,DF,Alavés,1996.0,La Liga
+Donny van de Beek,goals,612836,2.0,2.0,0.1,0.22,6.62,nl NED,MF,Girona,1997.0,La Liga
+Arnaut Danjuma,goals,704151,0.0,4.0,0.26,0.14,6.62,nl NED,FW,Villarreal,1997.0,La Liga
+Arnaut Danjuma,goals,704151,0.0,4.0,0.26,0.14,6.62,nl NED,FW,Girona,1997.0,La Liga
+Igor Zubeldia,goals,698653,0.0,0.0,0.02,0.02,6.62,es ESP,DF,Real Sociedad,1997.0,La Liga
+Manuel Fuster,goals,916546,1.0,2.0,0.08,0.18,6.62,es ESP,MF,Las Palmas,1997.0,La Liga
+Williot Swedberg,goals,1272740,4.0,4.0,0.37,0.14,6.62,se SWE,MF,Celta Vigo,2004.0,La Liga
+Chrisantus Uche,goals,1580704,5.0,3.0,0.14,0.1,6.61,ng NGA,MF,Getafe,2003.0,La Liga
+Brais Méndez,goals,640122,1.0,3.0,0.22,0.12,6.61,es ESP,MF,Real Sociedad,1997.0,La Liga
+Dimitri Foulquier,goals,261609,1.0,0.0,0.02,0.08,6.61,fr FRA,DF,Valencia,1993.0,La Liga
+Oscar Valentin,goals,956622,0.0,0.0,0.02,0.06,6.61,es ESP,MF,Rayo Vallecano,1997.0,La Liga
+Selim Amallah,goals,658658,1.0,3.0,0.19,0.07,6.61,ma MAR,MF,Valladolid,1996.0,La Liga
+Iván Martin,goals,967871,1.0,1.0,0.06,0.09,6.6,es ESP,MF,Girona,1999.0,La Liga
+Aritz Elustondo,goals,607148,0.0,0.0,0.03,0.03,6.6,es ESP,DF,Real Sociedad,1994.0,La Liga
+Gorka Guruzeta,goals,711231,2.0,6.0,0.3,0.03,6.59,es ESP,FW,Athletic Club,1996.0,La Liga
+Javier Hernández,goals,881786,1.0,1.0,0.03,0.05,6.58,es ESP,DF,Leganés,1996.0,La Liga
+Sergio Camello,goals,980422,2.0,3.0,0.35,0.09,6.58,es ESP,FW,Rayo Vallecano,2001.0,La Liga
+Ezequiel Ávila,goals,361724,0.0,2.0,0.25,0.13,6.57,ar ARG,FW,Betis,1994.0,La Liga
+Anuar,goals,580591,0.0,2.0,0.09,0.03,6.56,ma MAR,FW,Valladolid,1995.0,La Liga
+Jon Guridi,goals,678192,1.0,3.0,0.16,0.04,6.56,es ESP,MF,Alavés,1995.0,La Liga
+Oriol Romeu,goals,212470,0.0,0.0,0.01,0.05,6.56,es ESP,MF,Girona,1991.0,La Liga
+Aihen Munoz,goals,999159,0.0,0.0,0.01,0.01,6.56,es ESP,DF,Real Sociedad,1997.0,La Liga
+Moussa Diarra,goals,1054522,0.0,0.0,0.0,0.02,6.56,ml MLI,DF,Alavés,2000.0,La Liga
+Matija Nastasic,goals,213485,0.0,1.0,0.0,0.02,6.56,rs SRB,DF,Leganés,1993.0,La Liga
+Ander Guevara,goals,873827,1.0,0.0,0.04,0.03,6.55,es ESP,MF,Alavés,1997.0,La Liga
+Mikel Oyarzabal,goals,678234,2.0,8.0,0.35,0.08,6.55,es ESP,FW,Real Sociedad,1997.0,La Liga
+Antoniu Roca,goals,1323403,1.0,0.0,0.09,0.1,6.54,es ESP,FW,Espanyol,1998.0,La Liga
+Antonio Martinez,goals,640123,0.0,4.0,0.31,0.08,6.54,es ESP,FW,Alavés,1997.0,La Liga
+Carlos Martin,goals,1282015,2.0,2.0,0.16,0.09,6.53,es ESP,FW,Alavés,1998.0,La Liga
+Antonio Sánchez,goals,1055327,0.0,0.0,0.08,0.06,6.53,es ESP,MF,Mallorca,1997.0,La Liga
+Adrián Embarba,goals,482331,1.0,1.0,0.12,0.15,6.53,es ESP,FW,Espanyol,1993.0,La Liga
+Adrià Altimira,goals,1256478,0.0,0.0,0.02,0.03,6.52,es ESP,DF,Leganés,2001.0,La Liga
+Carles Pérez,goals,873297,0.0,3.0,0.15,0.08,6.52,es ESP,FW,Getafe,1998.0,La Liga
+Marcos de Sousa,goals,821271,2.0,1.0,0.2,0.02,6.52,pt POR,FW,Valladolid,1999.0,La Liga
+Iván Balliu,goals,264885,0.0,0.0,0.0,0.03,6.52,al ALB,DF,Rayo Vallecano,1992.0,La Liga
+Vitor Roque,goals,1339347,0.0,4.0,0.44,0.05,6.51,br BRA,FW,Betis,2005.0,La Liga
+Javi Lopez,goals,1159181,0.0,0.0,0.0,0.05,6.5,es ESP,DF,Real Sociedad,1988.0,La Liga
+Ander Barrenetxea,goals,1002618,3.0,1.0,0.12,0.17,6.5,es ESP,MF,Real Sociedad,2001.0,La Liga
+Pablo Ibánez,goals,1238154,1.0,1.0,0.12,0.03,6.5,es ESP,MF,Osasuna,1997.0,La Liga
+Darko Brasanac,goals,198235,2.0,1.0,0.1,0.03,6.49,rs SRB,MF,Leganes,1991.0,La Liga
+Jon Olasagasti,goals,1131957,1.0,1.0,0.1,0.08,6.49,es ESP,MF,Real Sociedad,1999.0,La Liga
+Cristhian Stuani,goals,58294,2.0,9.0,0.72,0.1,6.49,uy URU,FW,Girona,1986.0,La Liga
+Abel Ruiz,goals,748380,0.0,4.0,0.35,0.05,6.48,es ESP,FW,Girona,2000.0,La Liga
+Scott McKenna,goals,551805,0.0,0.0,0.03,0.02,6.48,sct SCO,DF,Las Palmas,1996.0,La Liga
+Umar Sadiq,goals,590494,0.0,5.0,0.36,0.05,6.48,ng NGA,FW,Valencia,1997.0,La Liga
+Umar Sadiq,goals,590494,0.0,5.0,0.36,0.05,6.48,ng NGA,FW,Real Sociedad,1997.0,La Liga
+Takuma Asano,goals,430856,1.0,2.0,0.21,0.05,6.47,jp JPN,FW,Mallorca,1994.0,La Liga
+Karl Hein,goals,982692,0.0,0.0,0.0,0.0,6.46,ee EST,GK,Valladolid,1998.0,La Liga
+Mamadou Sylla,goals,629579,2.0,5.0,0.31,0.04,6.46,sn SEN,FW,Valladolid,1994.0,La Liga
+Gerard Gumbau,goals,522234,1.0,0.0,0.11,0.09,6.46,es ESP,MF,Rayo Vallecano,1994.0,La Liga
+Lucas Rosa,goals,1357723,1.0,0.0,0.04,0.07,6.45,es ESP,DF,Valladolid,1999.0,La Liga
+Moi Gomez,goals,262592,0.0,0.0,0.05,0.13,6.45,es ESP,MF,Osasuna,1996.0,La Liga
+Juanmi,goals,191873,0.0,0.0,0.36,0.03,6.45,es ESP,FW,Getafe,1993.0,La Liga
+Juanmi,goals,191873,0.0,0.0,0.36,0.03,6.45,es ESP,FW,Betis,1993.0,La Liga
+Isaac Romero,goals,1130991,2.0,4.0,0.28,0.09,6.45,es ESP,FW,Sevilla,2000.0,La Liga
+Álvaro Rodriguez,goals,1327406,0.0,2.0,0.14,0.03,6.44,es ESP,FW,Getafe,2001.0,La Liga
+Alex Sola,goals,895953,1.0,0.0,0.08,0.07,6.43,es ESP,MF,Getafe,1999.0,La Liga
+Gerard Fernandez,goals,1132607,1.0,1.0,0.2,0.08,6.43,es ESP,FW,Sevilla,2001.0,La Liga
+Sheraldo Becker,goals,495222,1.0,2.0,0.18,0.15,6.43,sr SUR,FW,Real Sociedad,1995.0,La Liga
+Anastasios Douvikas,goals,873270,1.0,3.0,0.57,0.03,6.42,gr GRE,FW,Celta Vigo,1999.0,La Liga
+Mario Martin,goals,1321605,1.0,0.0,0.07,0.07,6.4,es ESP,MF,Valladolid,1999.0,La Liga
+Bertug Yildirim,goals,1282765,0.0,1.0,0.21,0.05,6.4,tr TUR,MF,Getafe,1998.0,La Liga
+Benat Turrientes,goals,1210647,0.0,0.0,0.05,0.04,6.39,es ESP,MF,Real Sociedad,1999.0,La Liga
+Stanko Juric,goals,953065,0.0,0.0,0.04,0.01,6.38,hr CRO,MF,Valladolid,1997.0,La Liga
+Rubén Pena,goals,364239,0.0,0.0,0.09,0.1,6.38,es ESP,DF,Osasuna,1990.0,La Liga
+Darwin Machis,goals,289278,1.0,0.0,0.13,0.13,6.38,ve VEN,FW,Valladolid,1997.0,La Liga
+Randy Nteka,goals,915264,0.0,3.0,0.23,0.03,6.37,ao ANG,FW,Rayo Vallecano,1997.0,La Liga
+Álvaro Djalo,goals,123456,6.5,3.0,0.14,0.08,6.2,pt POR,FW,Athletic Club,1999.0,La Liga
+Cédric Bakambu,goals,201939,2.0,2.0,0.45,0.11,6.36,cd COD,FW,Betis,1991.0,La Liga
+Unai Gomez,goals,1436270,2.0,1.0,0.11,0.07,6.35,es ESP,MF,Athletic Club,1998.0,La Liga
+Ángel Correa,goals,432950,1.0,3.0,0.54,0.22,6.34,ar ARG,FW,Atlético Madrid,1995.0,La Liga
+Diego Garcia,goals,1256237,0.0,3.0,0.35,0.02,6.33,es ESP,MF,Leganés,1998.0,La Liga
+Cyle Larin,goals,544312,2.0,6.0,0.33,0.02,6.33,ca CAN,FW,Mallorca,1995.0,La Liga
+Munir El Haddadi,goals,522579,0.0,4.0,0.15,0.05,6.32,ma MAR,FW,Leganés,1995.0,La Liga
+Marvin Park,goals,1106895,0.0,0.0,0.03,0.12,6.32,es ESP,FW,Las Palmas,1996.0,La Liga
+Javi Sánchez,goals,683761,0.0,2.0,0.02,0.02,6.32,es ESP,DF,Valladolid,1997.0,La Liga
+Alex Suárez,goals,879609,0.0,0.0,0.02,0.01,6.32,es ESP,MF,Las Palmas,1997.0,La Liga
+Borja Mayoral,goals,635772,1.0,4.0,0.32,0.03,6.31,es ESP,FW,Getafe,1997.0,La Liga
+Juanmi Latasa,goals,1231032,0.0,3.0,0.31,0.03,6.3,es ESP,FW,Valladolid,2001.0,La Liga
+Walid Cheddira,goals,1078113,1.0,1.0,0.14,0.07,6.29,ma MAR,FW,Espanyol,1998.0,La Liga
+Orri Oskarsson,goals,1097229,0.0,3.0,0.49,0.04,6.29,is ISL,MF,Real Sociedad,1997.0,La Liga
+Rafa Mir,goals,640492,2.0,0.0,0.4,0.06,6.28,es ESP,FW,Valencia,1997.0,La Liga
+Luis Pérez,goals,766957,0.0,0.0,0.01,0.09,6.27,es ESP,DF,Valladolid,1995.0,La Liga
+Alejo Veliz,goals,1250658,0.0,1.0,0.19,0.01,6.24,ar ARG,FW,Espanyol,1999.0,La Liga
+Raul Garcia,goals,1094778,0.0,2.0,0.33,0.06,6.21,es ESP,FW,Athletic Bilbao,1986.0,La Liga
+Miguel de la Fuente,goals,902901,3.0,1.0,0.26,0.04,6.19,es ESP,FW,Leganés,1997.0,La Liga
+Jaime Mata,goals,573748,0.0,0.0,0.4,0.05,6.16,es ESP,FW,Las Palmas,1988.0,La Liga
+Eray Cömert,goals,705484,0.0,0.0,0.05,0.01,6.03,ch SUI,DF,Valladolid,1998.0,La Liga
+David Torres,goals,1395716,0.0,0.0,0.02,0.01,5.94,es ESP,DF,Valladolid,2003.0,La Liga
